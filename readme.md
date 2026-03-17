@@ -22,6 +22,9 @@ I'm a computer science student who enjoys working close to the metal — from Ar
 
 Currently exploring: **machine learning**, **hardware interfacing**, and **data analysis**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-azrialahmad-111?style=flat-square&logo=linkedin)](https://linkedin.com/in/azrialahmad)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-111?style=flat-square&logo=firefox)](https://azrialahmad.is-a.dev/)
 ---
 
 ### Tech Stack
