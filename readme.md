@@ -1,68 +1,71 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-light.svg" alt="Azrial Ahmad Haidar — Software, AI and Data. Curious by nature, precise by practice." width="100%">
+</picture>
 
-# Azrial Ahmad
+[Portfolio ↗](https://azrialahmad.is-a.dev/) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/azrialahmad/) &nbsp; / &nbsp; [Email ↗](mailto:azrialahmad@gmail.com)
 
-**CS Graduate · Islamic University of Indonesia · Yogyakarta**
+### Curious by nature. Precise by practice.
 
-Building things at the intersection of low-level hardware, computer vision, and game technology.
+I'm **Azrial**, a **CS graduate** based in Yogyakarta, Indonesia. I explore the intersection of **software, AI, and data** — from computer vision experiments and data analysis to APIs and small, useful products.
 
-<br/>
+I've been an avid **LLM user since 2022**, with hands-on experience in **agentic coding workflows**. I enjoy experimenting with how AI can help us build, learn, and make sense of complexity.
 
-[![GitHub followers](https://img.shields.io/github/followers/azrialahmad?style=flat-square&color=555&labelColor=111&label=followers)](https://github.com/azrialahmad?tab=followers)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=azrialahmad&style=flat-square&color=555&labelColor=111)](https://github.com/azrialahmad)
-
-</div>
-
----
-
-### About
-
-I'm a computer science student who enjoys working close to the metal — from Arduino firmware to real-time computer vision pipelines. I build tools that are either useful, interesting, or both.
-
-Currently exploring: **machine learning**, **hardware interfacing**, and **data analysis**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-azrialahmad-111?style=flat-square&logo=linkedin)](https://linkedin.com/in/azrialahmad)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-111?style=flat-square&logo=firefox)](https://azrialahmad.is-a.dev/)
----
-
-### Tech Stack
-
-**Languages**
-&nbsp; Python · JavaScript · C++ · Jupyter
-
-**Tools & Frameworks**
-&nbsp; YOLOv11 · OpenCV · Arduino · Git
-
-**Interests**
-&nbsp; Computer Vision · Embedded Systems · Game Tech · Data Analysis
+- **Now:** Backend Engineer Intern, building experience with real-world software systems.
+- **Next:** Apple Developer Academy in **2027**.
+- **Exploring:** Applied AI, computer vision, data, and software engineering opportunities.
 
 ---
 
-### Featured Projects
+### 01 / Selected work
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [osu-aim-assistant](https://github.com/azrialahmad/osu-aim-assistant) | AI-powered aim assist using YOLOv11 for real-time target detection | Python · YOLO · CV |
-| [mousemovements](https://github.com/azrialahmad/mousemovements) | Visualizer for mouse movement algorithms used in aimbots | JavaScript |
-| [Arduino-Mouse-Passthrough](https://github.com/azrialahmad/Arduino-Mouse-Passthrough) | USB Host Shield mouse passthrough via Arduino | C++ · Arduino |
-| [virtual-photography-analysis](https://github.com/azrialahmad/virtual-photography-analysis) | Data analysis of 90+ top-rated virtual photos to find success patterns | Python · Jupyter |
+#### [Gatekeeper · AI Governance Proxy ↗](https://github.com/azrialahmad/ai-governance-proxy)
+A gateway between applications and language models, exploring PII redaction, prompt filtering, model routing, response evaluation, and request metrics.
+
+<sub>Python · FastAPI · Ollama · Gemini · Groq</sub>
+
+#### [Real-time Computer Vision · osu! ↗](https://github.com/azrialahmad/osu-aim-assistant)
+A computer vision experiment using a custom-trained YOLOv11 model and GPU-accelerated screen capture to detect gameplay targets in real time.
+
+<sub>Python · YOLOv11 · Computer Vision · dxcam</sub>
+
+#### [Pixels & Perspectives · Data Analysis ↗](https://github.com/azrialahmad/virtual-photography-analysis)
+An analysis of 90+ highly rated virtual photographs, exploring how composition, subject, and game choice relate to audience response.
+
+<sub>Python · Pandas · SQL · Jupyter · Matplotlib</sub>
+
+#### [Apex Pity Tracker ↗](https://github.com/azrialahmad/apex-pity-tracker)
+A browser-only tool that parses official EA data exports to track Apex pack history. Personal data stays on the user's device.
+
+<sub>React · JavaScript · Vite · Tailwind CSS</sub> &nbsp; [Try it ↗](https://azrialahmad.is-a.dev/apex-pity-tracker/)
+
+**Also built:** Kost marketplace APIs in [Laravel](https://github.com/azrialahmad/mamikos-laravel) and [Spring Boot](https://github.com/azrialahmad/mamikos-springboot), with authentication, ownership checks, search, and transactional credit handling.
 
 ---
 
-### GitHub Stats
+### 02 / Research
 
-<div align="center">
+**[A Comparative Analysis of YOLOv12 Model Sizes for Road Damage Detection on an Indonesian Dataset ↗](https://doi.org/10.1109/ICITDA68167.2025.11332249)**
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=azrialahmad&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=111&text_color=555&icon_color=111" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrialahmad&layout=compact&hide_border=true&theme=default&title_color=111&text_color=555" />
-
-</div>
+First author · **ICITDA 2025** · Published in **IEEE Xplore**<br>
+Computer vision research comparing YOLOv12 model sizes for road damage detection.
 
 ---
 
-<div align="center">
-<sub>Always open to interesting projects and collaborations.</sub>
-</div>
+### 03 / Technical toolkit
+
+**AI & vision** &nbsp; LLMs · Agentic coding · YOLO · OpenCV · Ollama<br>
+**Data** &nbsp; Python · Pandas · SQL · Jupyter · Matplotlib<br>
+**Software** &nbsp; PHP · Laravel · Java · Spring Boot · FastAPI · JavaScript · React<br>
+**Tools & testing** &nbsp; Git · Linux · Docker · MySQL · PHPUnit
+
+### 04 / Away from the terminal
+
+I run an **Ubuntu homelab on a repurposed old laptop**, giving older hardware a second life and myself a place to tinker.
+
+Away from the screens: street photography and cosplay portraits. Different mediums, same attention to detail. Find the creative side of my work on [my portfolio](https://azrialahmad.is-a.dev/#photography).
+
+---
+
+<sub>Curious by nature. Precise by practice. &nbsp; · &nbsp; [Let's connect ↗](mailto:azrialahmad@gmail.com)</sub>
