@@ -35,17 +35,10 @@ A computer vision experiment using a custom-trained YOLOv11 model and GPU-accele
 
 <sub>Python · YOLOv11 · Computer Vision · dxcam</sub>
 
-#### [Pixels & Perspectives · Data Analysis ↗](https://github.com/azrialahmad/virtual-photography-analysis)
-An analysis of 90+ highly rated virtual photographs, exploring how composition, subject, and game choice relate to audience response.
-
-<sub>Python · Pandas · SQL · Jupyter · Matplotlib</sub>
-
 #### [Apex Pity Tracker ↗](https://github.com/azrialahmad/apex-pity-tracker)
 A browser-only tool that parses official EA data exports to track Apex pack history. Personal data stays on the user's device.
 
 <sub>React · JavaScript · Vite · Tailwind CSS</sub> &nbsp; [Try it ↗](https://azrialahmad.is-a.dev/apex-pity-tracker/)
-
-**Also built:** Kost marketplace APIs in [Laravel](https://github.com/azrialahmad/mamikos-laravel) and [Spring Boot](https://github.com/azrialahmad/mamikos-springboot), with authentication, ownership checks, search, and transactional credit handling.
 
 ---
 
