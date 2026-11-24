@@ -25,6 +25,11 @@ A Windows meeting notepad that transcribes locally on the GPU, with no meeting b
 
 <sub>Rust · Tauri · Svelte · whisper.cpp · MCP</sub>
 
+#### [Earth Analog Explorer · NASA Space Apps 2026 ↗](https://github.com/azrialahmad/earth-analog-explorer)
+Ranks Earth sites by how closely their terrain matches the lunar south pole and Mars's Jezero crater, using elevation data. Lighting is kept as a separate check, and an AI assistant can rerun the ranking with other weights.
+
+<sub>Python · TypeScript · DEM analysis · pvlib · NASA SPICE</sub> &nbsp; [Try it ↗](https://azrialahmad.is-a.dev/earth-analog-explorer/)
+
 #### [Gatekeeper · AI Governance Proxy ↗](https://github.com/azrialahmad/ai-governance-proxy)
 A gateway between applications and language models, exploring PII redaction, prompt filtering, model routing, response evaluation, and request metrics.
 
