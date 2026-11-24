@@ -20,6 +20,11 @@ I've been an avid **LLM user since 2022**, with hands-on experience in **agentic
 
 ### 01 / Selected work
 
+#### [fivesight · Meeting Copilot ↗](https://github.com/azrialahmad/fivesight)
+A Windows meeting notepad that transcribes locally on the GPU, with no meeting bot. It turns your shorthand into full notes, answers questions with timestamp citations, and reads Jira and Confluence through a strict read-only allowlist.
+
+<sub>Rust · Tauri · Svelte · whisper.cpp · MCP</sub>
+
 #### [Gatekeeper · AI Governance Proxy ↗](https://github.com/azrialahmad/ai-governance-proxy)
 A gateway between applications and language models, exploring PII redaction, prompt filtering, model routing, response evaluation, and request metrics.
 
